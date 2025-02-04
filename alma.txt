@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 alma
 Palugyai márk
-=======
 alma 
 Hegedűs Gergő
->>>>>>> 3df9fb8ace33897eed6681002cfa7e81ce102340
